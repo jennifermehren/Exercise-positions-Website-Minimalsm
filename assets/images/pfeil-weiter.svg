@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pfeil-weiter</title>
+    <g id="pfeil-weiter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#DA7920" stroke-width="3" cx="22.5" cy="22.5" r="21"></circle>
+        <polyline id="Path-2" stroke="#DA7920" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="21 16 27.0138126 22.0138126 21 28.0276252"></polyline>
+    </g>
+</svg>
